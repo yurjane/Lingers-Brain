@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "76f53ac33d4e29a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4066b06aded91bf7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "201709 - 高等数学/张量的多种形态.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bba68ae0f1304e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e70d7bbf87d5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d6d26c3382ccdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bc45d59d16e874d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a3df6a48ffb5a28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ae2de427bfe6406",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc95f30a1a7eb40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8546a7f6533f5c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "57887e70f11d1199",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "158995084b2a7d17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "201709 - 高等数学/张量的多种形态.md",
+    "201709 - 高等数学/向量空间.md",
+    "201709 - 高等数学/向量积.md",
+    "201709 - 高等数学/线性代数下的向量.md",
+    "201709 - 高等数学/微积分从一元到复杂的视角变化.md"
+  ]
+}
